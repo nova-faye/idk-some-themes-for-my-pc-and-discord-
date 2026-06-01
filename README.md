@@ -32,8 +32,8 @@ Carefully crafted palettes — easy on the eyes, beautiful on screen.
 
 All Discord themes require **[Vencord](https://vencord.dev)** or **[Equicord](https://equicord.org/)** with the **Visual Refresh** flag enabled.
 
-1. Open Discord → **Settings** → **Vencord** → **Themes**
-2. Click **"Online Themes"**
+1. Open Discord → **Settings** → **Vencord or Equicord** → **Themes**
+2. Click **"edit quickcss"**
 3. Paste the `@import` URL for the theme you want
 4. Done — the theme applies instantly ✅
 
@@ -60,7 +60,7 @@ All themes support both **Dark** and **Light** mode.
 
 **Install:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/testtheme.css");
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");
 ```
 
 ---
@@ -80,7 +80,7 @@ All themes support both **Dark** and **Light** mode.
 
 **Install:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/genshin_discord_theme.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/genshin.css");
 ```
 
 ---
@@ -99,7 +99,7 @@ All themes support both **Dark** and **Light** mode.
 
 **Install:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/neuvillette_theme.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/neuvillette.css");
 ```
 
 ---
@@ -118,7 +118,7 @@ All themes support both **Dark** and **Light** mode.
 
 **Install:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/furina_theme.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/furina.css");
 ```
 
 ---
@@ -129,13 +129,6 @@ All themes support both **Dark** and **Light** mode.
 
 ---
 
-## 🌐 Theme Browser
-
-A visual theme browser with copy buttons is available at:
-
-**[`themes_page.html`](./themes_page.html)**
-
-Open it locally or host it via GitHub Pages for a nicer experience.
 
 ---
 
@@ -151,7 +144,6 @@ Open it locally or host it via GitHub Pages for a nicer experience.
  ┃   ┗ 📄 furina_theme.css
  ┣ 📂 PC
  ┃ ┗ 📂 (coming soon)
- ┣ 📄 themes_page.html
  ┗ 📄 README.md
 ```
 
