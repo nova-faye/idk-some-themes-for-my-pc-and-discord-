@@ -129,6 +129,13 @@ All themes support both **Dark** and **Light** mode.
 
 ---
 
+## 🌐 web themes
+
+here is all the themes:
+
+**[`click here`](https://novasa.org/themes_page)**
+
+
 
 ---
 
