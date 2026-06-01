@@ -30,7 +30,7 @@ Carefully crafted palettes — easy on the eyes, beautiful on screen.
 
 ## 🚀 How to Install
 
-All Discord themes require **[Vencord](https://vencord.dev)** with the **Visual Refresh** flag enabled.
+All Discord themes require **[Vencord](https://vencord.dev)** or **[Equicord](https://equicord.org/)** with the **Visual Refresh** flag enabled.
 
 1. Open Discord → **Settings** → **Vencord** → **Themes**
 2. Click **"Online Themes"**
