@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/preview.png" alt="Nova's Themes" width="100%" style="border-radius:12px"/>
+<img src="https://avatars.githubusercontent.com/u/198331775?v=4" alt="Nova's Themes" width="100%" style="border-radius:12px"/>
 
 # ✦ Nova's Theme Collection
 
