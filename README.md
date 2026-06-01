@@ -24,7 +24,7 @@ Carefully crafted palettes — easy on the eyes, beautiful on screen.
   - [Neuvillette](#-neuvillette)
   - [Furina](#-furina)
 - [PC / Windows Themes](#-pc--windows-themes)
-- [Theme Browser](#-theme-browser)
+- [Web Themes](#-web-themes)
 
 ---
 
@@ -37,7 +37,7 @@ All Discord themes require **[Vencord](https://vencord.dev)** or **[Equicord](ht
 3. Paste the `@import` URL for the theme you want
 4. Done — the theme applies instantly ✅
 
-> **Tip:** You can also open the [Theme Browser](./themes_page.html) page in this repo for one-click copy buttons.
+> **Tip:** You can also open the [Theme Browser](https://novasa.org/themes_page) for one-click copy buttons.
 
 ---
 
@@ -58,9 +58,14 @@ All themes support both **Dark** and **Light** mode.
 | Mood | Soft, pastel, cozy |
 | Mode | Dark + Light |
 
-**Install:**
+**Dark mode:**
 ```css
-@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/catppuccin-dark.css");
+```
+
+**Light mode:**
+```css
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/catppuccin-light.css");
 ```
 
 ---
@@ -78,9 +83,14 @@ All themes support both **Dark** and **Light** mode.
 | Mood | Mystical, warm, rich |
 | Mode | Dark + Light |
 
-**Install:**
+**Dark mode:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/genshin.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/genshin-dark.css");
+```
+
+**Light mode:**
+```css
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/genshin-light.css");
 ```
 
 ---
@@ -97,9 +107,14 @@ All themes support both **Dark** and **Light** mode.
 | Mood | Cold, calm, elegant |
 | Mode | Dark + Light |
 
-**Install:**
+**Dark mode:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/neuvillette.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/neuvillette-dark.css");
+```
+
+**Light mode:**
+```css
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/neuvillette-light.css");
 ```
 
 ---
@@ -116,9 +131,14 @@ All themes support both **Dark** and **Light** mode.
 | Mood | Theatrical, bright, playful |
 | Mode | Dark + Light |
 
-**Install:**
+**Dark mode:**
 ```css
-@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/furina.css");
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/furina-dark.css");
+```
+
+**Light mode:**
+```css
+@import url("https://raw.githubusercontent.com/nova-faye/idk-some-themes-for-my-pc-and-discord-/refs/heads/main/DISCORD/DISCORD%20THEMES/furina-light.css");
 ```
 
 ---
@@ -129,13 +149,11 @@ All themes support both **Dark** and **Light** mode.
 
 ---
 
-## 🌐 web themes
+## 🌐 Web Themes
 
 here is all the themes:
 
 **[`click here`](https://novasa.org/themes_page)**
-
-
 
 ---
 
@@ -145,10 +163,14 @@ here is all the themes:
 📦 idk-some-themes-for-my-pc-and-discord-
  ┣ 📂 DISCORD
  ┃ ┗ 📂 DISCORD THEMES
- ┃   ┣ 📄 testtheme.css          ← Catppuccin Mocha
- ┃   ┣ 📄 genshin_discord_theme.css
- ┃   ┣ 📄 neuvillette_theme.css
- ┃   ┗ 📄 furina_theme.css
+ ┃   ┣ 📄 catppuccin-dark.css
+ ┃   ┣ 📄 catppuccin-light.css
+ ┃   ┣ 📄 genshin-dark.css
+ ┃   ┣ 📄 genshin-light.css
+ ┃   ┣ 📄 neuvillette-dark.css
+ ┃   ┣ 📄 neuvillette-light.css
+ ┃   ┣ 📄 furina-dark.css
+ ┃   ┗ 📄 furina-light.css
  ┣ 📂 PC
  ┃ ┗ 📂 (coming soon)
  ┗ 📄 README.md
